@@ -4,9 +4,9 @@ Pygame is a cross-platform set of Python modules which is used to create video g
 
 ### 1. Tetris Game
 
-![Test Image1] (ss1.png)
+![Test Image1](ss1.png)
 
 
 ### 2. Shooting Game
 
-![Test Image1] (ss2.png)
+![Test Image1](ss2.png)
